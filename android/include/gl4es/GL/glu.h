@@ -31,11 +31,11 @@
 #ifndef __glu_h__
 #define __glu_h__
 
-#include <GL/gl.h>
-
 #if defined(USE_MGL_NAMESPACE)
 #include "glu_mangle.h"
 #endif
+
+#include <GL/gl.h>
 
 #ifndef GLAPIENTRY
 #if defined(_MSC_VER) || defined(__MINGW32__)
