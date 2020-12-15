@@ -1,17 +1,17 @@
-NDK Version 21.1.6352462
-Xcode Version 12.2 RC
+NDK Version 22.0.7026061
+Xcode Version 12.3
 
 lua        5.1.5
 jpeg       9d
 libpng     1.6.37
-fmt        7.1.1
+fmt        7.1.3
 gettext    0.21
-eigen      3.3.8
+eigen      3.3.9
 libogg     1.3.4
 theora     1.1.1
 libepoxy   1.5.4
 cspice     66
 breakpad   78180df608bf0d0181fd1b096ec98d1354b640d0
 json       3.9.1
-Freetype   2.10.4
-metalangle b433879bab2af087d438cce9c27c460a1b0726f7
+freetype   2.10.4
+metalangle 9cfbd26f3dc600713704de5ebb33f542fa65c739
