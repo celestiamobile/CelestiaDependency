@@ -1,14 +1,14 @@
-NDK Version 23.1.7779620
-Xcode Version 13.3.1
+NDK Version 25.1.8937393
+Xcode Version 14.1
 
 lua        5.1.5
 jpeg       9e
-libpng     1.6.37
-fmt        8.1.1
-gettext    0.21
+libpng     1.6.38
+fmt        9.1.0
+gettext    0.21.1
 eigen      3.4.0
 libepoxy   1.5.10
 cspice     67
-json       3.10.5
-freetype   2.12.0
-metalangle 317eaf33a36309549dbb4c5eae5c71e16bfc3ce9
+json       3.11.2
+freetype   2.12.1
+metalangle 850c87ba5b744c7c39f30c66bacdc9648d15067a
